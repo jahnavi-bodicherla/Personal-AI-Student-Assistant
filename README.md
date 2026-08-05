@@ -2,6 +2,6 @@
 ⚙️ Backend: https://personal-ai-student-assistant-production.up.railway.app
 📖 API Docs: https://personal-ai-student-assistant-production.up.railway.app/docs
 
-<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/c765dfe2-e75b-4bb3-9887-9eef9b745fc1" />
-<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/6957330e-c23c-47d6-b2dd-773b48b8d889" />
-<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/bba70731-8b90-4217-896f-07bcfa37f764" />
+<img width="1917" height="910" alt="Screenshot 2026-08-05 182422" src="https://github.com/user-attachments/assets/19e60f3c-be90-49ff-94db-39b1ace5463d" />
+<img width="1917" height="907" alt="Screenshot 2026-08-05 182357" src="https://github.com/user-attachments/assets/a8f14bf5-b938-434a-bc59-733e5e3708ef" />
+<img width="1917" height="906" alt="Screenshot 2026-08-05 182304" src="https://github.com/user-attachments/assets/4a12f981-8e32-4224-9eee-ec2bb4646e38" />
